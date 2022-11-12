@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body{
+  background-color:bisque;
+}
+
+.header {
+  background-color: skyblue;
+  text-align: center;
+  border: 15px solid brown;
+ margin-left: 18%;
+ margin-top: 20px;
+ margin-bottom: 30px;
+  width: 300px;
+  padding: 50px;
+}
+
+.header p {
+  color: brown;
+  margin: 0;
+}
+
+.main {
+  background-color: lightblue;
+  text-align: center;
+  border: 5px outset red;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 30px;
+}
+
+.footer {
+  display: block;
+  margin-left: 15%;
+  margin-top: 40px;
+}
+
+#end{
+  color: blueviolet;
+}
